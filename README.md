@@ -1,10 +1,10 @@
-# Rainbow Wallet Assets
+# VinuchainWallet Assets
 
 
 ## Overview
 Vinuchain Wallet token repository is a comprehensive, up-to-date collection of information about several  (!) of VC tokens.
 
-[Rainbow Wallet](https://vinuchain.org) uses token logos from this source
+[VinuchainWallet](https://vinuchain.org) uses token logos from this source
 
 The repository contains token info from several tokens on Vinuchain, info on dApps, staking validators, etc.
 For every token a logo and optional additional information is available (such data is not available on-chain).
