@@ -20,7 +20,7 @@ jobs:
         id: go
 
       - name: Checkout repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v6
 
       - name: Sync assets to staging folder
         run: |
